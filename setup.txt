@@ -1,0 +1,3 @@
+1. install spider or anaconda navigator (launch)
+2. import file 2 cms py file
+3. select cms-main(1.2) click run icon above
